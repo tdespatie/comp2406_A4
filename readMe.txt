@@ -1,5 +1,4 @@
 Author: Tyler Despatie
-Student Number: 101010622
 Course: COMP 2406
 Section: A1
 Assignment 4
