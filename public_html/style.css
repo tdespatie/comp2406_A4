@@ -1,0 +1,42 @@
+/*
+	Author: Tyler Despatie
+	Student Number: 101010622
+	Course: COMP 2406
+	Section: A1
+	File: style.css
+*/
+
+body {
+  background-color: rgb(34,34,34);
+  color: rgb(204,204,204);
+}
+#inputText, #chatLog{
+  border: solid 1px rgb(85,136,136);
+  background-color: black;
+  color: rgb(204,204,204);
+  width: 100%;
+}
+#chatLog{
+  height: 200px;
+}
+#chatLogDiv {
+  float: left;
+  width:90%;
+  height:100%;
+}
+#userList {
+  padding: 0px 0px 0px 25px;
+  margin: 0;
+}
+#userListDiv {
+  border: solid 1px rgb(85,136,136);
+  background-color: black;
+  height: 100%;
+  overflow: auto;
+  float: right;
+  width: 9%;
+}
+#contents{
+  width: 100%;
+  height: 200px;
+}
